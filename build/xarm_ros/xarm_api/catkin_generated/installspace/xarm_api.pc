@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/install
+
+Name: xarm_api
+Description: Description of xarm_api
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lxarm_api -lxarm_ros_client
+Requires: roscpp std_msgs

@@ -1,0 +1,14 @@
+# Define the goal
+float64 turtle_target_x  # Specify Turtle's　target position
+float64 turtle_target_y
+float64 turtle_target_theta
+---
+# Define the result
+float64 turtle_final_x
+float64 turtle_final_y
+float64 turtle_final_theta
+---
+# Define a feedback message
+float64 present_turtle_x
+float64 present_turtle_y
+float64 present_turtle_theta

@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/install
+
+Name: xarm6_demo
+Description: Description of xarm6_demo
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy moveit_core moveit_ros_planning_interface

@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/install
+
+Name: realsense2_camera
+Description: Description of realsense2_camera
+Version: 2.2.20
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrealsense2_camera
+Requires: message_runtime roscpp sensor_msgs std_msgs nodelet cv_bridge image_transport ddynamic_reconfigure nav_msgs

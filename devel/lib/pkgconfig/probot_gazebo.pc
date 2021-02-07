@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/devel
+
+Name: probot_gazebo
+Description: Description of probot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

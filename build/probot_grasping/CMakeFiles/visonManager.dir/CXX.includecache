@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qq44642754/xarm6_ws/src/probot_grasping/include/probot_grasping/vision_manager.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+opencv2/highgui/highgui.hpp
+/home/qq44642754/xarm6_ws/src/probot_grasping/include/probot_grasping/opencv2/highgui/highgui.hpp
+
+/home/qq44642754/xarm6_ws/src/probot_grasping/src/vision_manager.cpp
+probot_grasping/vision_manager.h
+/home/qq44642754/xarm6_ws/src/probot_grasping/src/probot_grasping/vision_manager.h
+

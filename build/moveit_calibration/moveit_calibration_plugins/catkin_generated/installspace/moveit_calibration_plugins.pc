@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/install
+
+Name: moveit_calibration_plugins
+Description: Description of moveit_calibration_plugins
+Version: 0.1.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lmoveit_handeye_calibration_target -lmoveit_handeye_calibration_solver
+Requires: roscpp sensor_msgs

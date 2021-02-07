@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/devel
+
+Name: visp_hand2eye_calibration
+Description: Description of visp_hand2eye_calibration
+Version: 0.11.1
+Cflags: -I/home/qq44642754/xarm6_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime roscpp sensor_msgs std_msgs

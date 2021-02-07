@@ -1,0 +1,2 @@
+set(visp_hand2eye_calibration_MESSAGE_FILES "/home/qq44642754/xarm6_ws/src/vision_visp/visp_hand2eye_calibration/msg/TransformArray.msg")
+set(visp_hand2eye_calibration_SERVICE_FILES "/home/qq44642754/xarm6_ws/src/vision_visp/visp_hand2eye_calibration/srv/compute_effector_camera.srv;/home/qq44642754/xarm6_ws/src/vision_visp/visp_hand2eye_calibration/srv/compute_effector_camera_quick.srv;/home/qq44642754/xarm6_ws/src/vision_visp/visp_hand2eye_calibration/srv/reset.srv")

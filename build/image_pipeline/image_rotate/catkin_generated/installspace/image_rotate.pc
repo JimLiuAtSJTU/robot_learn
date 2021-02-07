@@ -1,0 +1,8 @@
+prefix=/home/qq44642754/xarm6_ws/install
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.15.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

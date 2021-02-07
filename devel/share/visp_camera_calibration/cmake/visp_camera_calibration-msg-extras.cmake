@@ -1,0 +1,2 @@
+set(visp_camera_calibration_MESSAGE_FILES "/home/qq44642754/xarm6_ws/src/vision_visp/visp_camera_calibration/msg/CalibPoint.msg;/home/qq44642754/xarm6_ws/src/vision_visp/visp_camera_calibration/msg/CalibPointArray.msg;/home/qq44642754/xarm6_ws/src/vision_visp/visp_camera_calibration/msg/ImageAndPoints.msg;/home/qq44642754/xarm6_ws/src/vision_visp/visp_camera_calibration/msg/ImagePoint.msg")
+set(visp_camera_calibration_SERVICE_FILES "/home/qq44642754/xarm6_ws/src/vision_visp/visp_camera_calibration/srv/calibrate.srv")
